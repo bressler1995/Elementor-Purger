@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @since 1.2.0
  */
-class Manager {
+class EccentEPManager {
 
 	private $files = [];
 
