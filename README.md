@@ -1,0 +1,1 @@
+# Elementor Purger Plugin
